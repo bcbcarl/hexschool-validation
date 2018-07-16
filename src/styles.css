@@ -1,0 +1,14 @@
+/* stylelint-disable-next-line at-rule-no-unknown */
+@import-normalize;
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e1e1e1;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
